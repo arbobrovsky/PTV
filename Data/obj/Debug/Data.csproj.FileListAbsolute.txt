@@ -1,0 +1,6 @@
+C:\Users\Артём\Source\Repos\PTV\Data\bin\Debug\Data.dll
+C:\Users\Артём\Source\Repos\PTV\Data\bin\Debug\Data.pdb
+C:\Users\Артём\Source\Repos\PTV\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\Артём\Source\Repos\PTV\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Артём\Source\Repos\PTV\Data\obj\Debug\Data.dll
+C:\Users\Артём\Source\Repos\PTV\Data\obj\Debug\Data.pdb

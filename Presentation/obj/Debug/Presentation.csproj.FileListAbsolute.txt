@@ -1,0 +1,6 @@
+C:\Users\Артём\Source\Repos\PTV\Presentation\bin\Debug\Presentation.dll
+C:\Users\Артём\Source\Repos\PTV\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Артём\Source\Repos\PTV\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\Артём\Source\Repos\PTV\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Артём\Source\Repos\PTV\Presentation\obj\Debug\Presentation.dll
+C:\Users\Артём\Source\Repos\PTV\Presentation\obj\Debug\Presentation.pdb
